@@ -1,3 +1,5 @@
 # Facial-Expression-Recognition
 
-CS376 - Machine Learning Project
+Final Project : CS376 - Machine Learning
+
+
